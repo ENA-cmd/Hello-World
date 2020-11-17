@@ -4,5 +4,7 @@ public class First {
         System.out.println("Hello World!!");
         System.out.println("Hello kitty");
         System.out.println("tyn");
+        System.out.println("赵晨楠");
+
     }
 }
